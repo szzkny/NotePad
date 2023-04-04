@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\szabina.zekany\\Desktop\\NotePad\\NotePad\\NotePad.csproj",
+      "projectUniqueName": "C:\\Users\\szabina.zekany\\Desktop\\C# Github\\NotePad\\NotePad\\NotePad.csproj",
       "projectName": "NotePad",
-      "projectPath": "C:\\Users\\szabina.zekany\\Desktop\\NotePad\\NotePad\\NotePad.csproj",
+      "projectPath": "C:\\Users\\szabina.zekany\\Desktop\\C# Github\\NotePad\\NotePad\\NotePad.csproj",
       "packagesPath": "C:\\Users\\szabina.zekany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\szabina.zekany\\Desktop\\NotePad\\NotePad\\obj\\",
+      "outputPath": "C:\\Users\\szabina.zekany\\Desktop\\C# Github\\NotePad\\NotePad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
